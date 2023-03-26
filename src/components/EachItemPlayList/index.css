@@ -1,0 +1,51 @@
+.list-each-container {
+  list-style-type: none;
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.image-song {
+  width: 170px;
+}
+
+.image-songs-container {
+  display: flex;
+}
+
+.delete-Button {
+  background-color: transparent;
+  border: none;
+}
+
+.container-names {
+  padding-left: 10px;
+}
+
+.name-Element {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.genre-Element {
+  color: #3b82f6;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+
+.button-container {
+  width: 16%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.duration-Element {
+  color: #ffffff;
+}
+
+.Delete-Element {
+  color: #ffffff;
+}
